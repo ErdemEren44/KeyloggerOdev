@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Keylogger\Keylogger\obj\Debug\net8.0\Keylogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Keylogger\Keylogger\obj\Debug\net8.0\Keylogger.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Keylogger\Keylogger\obj\Debug\net8.0\Keylogger.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Keylogger\Keylogger\obj\Debug\net8.0\Keylogger.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Keylogger\Keylogger\bin\Debug\net8.0\Keylogger.exe
+C:\Users\ASUS\source\repos\Keylogger\Keylogger\bin\Debug\net8.0\Keylogger.deps.json
+C:\Users\ASUS\source\repos\Keylogger\Keylogger\bin\Debug\net8.0\Keylogger.runtimeconfig.json
+C:\Users\ASUS\source\repos\Keylogger\Keylogger\bin\Debug\net8.0\Keylogger.dll
+C:\Users\ASUS\source\repos\Keylogger\Keylogger\bin\Debug\net8.0\Keylogger.pdb
+C:\Users\ASUS\source\repos\Keylogger\Keylogger\obj\Debug\net8.0\Keylogger.dll
+C:\Users\ASUS\source\repos\Keylogger\Keylogger\obj\Debug\net8.0\refint\Keylogger.dll
+C:\Users\ASUS\source\repos\Keylogger\Keylogger\obj\Debug\net8.0\Keylogger.pdb
+C:\Users\ASUS\source\repos\Keylogger\Keylogger\obj\Debug\net8.0\Keylogger.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Keylogger\Keylogger\obj\Debug\net8.0\ref\Keylogger.dll
+C:\Users\ASUS\source\repos\Keylogger\Keylogger\obj\Debug\net8.0\Keylogger.csproj.ResolveComReference.cache
